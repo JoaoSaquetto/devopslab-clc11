@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def pagina_inicial():
-    return "Quebrando a pipeline!"
+    return "Arrumando a pipeline!"
